@@ -1,0 +1,46 @@
+body {
+	font-size: 24px;
+	/*font-color: blue;*/
+}
+
+/* header */
+.top {
+
+}
+
+h3 {
+	color: blue;
+}
+
+.contact-box {
+	width: 150px;
+	height: 150px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: gray;
+	margin: 25px 25px 25px 25px;
+	padding: 50px 50px 50px 50px;
+	float: right;
+}
+
+.image-icon {
+	width: 90px;
+	height: 90px;
+}
+
+/* Navigation bar */
+nav {
+	float: right;
+}
+
+.form {
+	border-style: solid;
+	border-width: 1px;
+	border-color: white;
+	/*float: left;*/
+}
+
+.clear {
+	clear: both;
+}
+
